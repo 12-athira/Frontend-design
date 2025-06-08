@@ -280,7 +280,7 @@ body.sticky-nav {
 }
 
 .content-section-header {
-  background: url('image/bg.png') no-repeat center 70%;
+  background: url('bg.png') no-repeat center 70%;
   background-size: cover;
   background-attachment: scroll;
   background-position: center 70%;
